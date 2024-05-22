@@ -1,2 +1,2 @@
 # montecarlo
-Demonstrating the Monte Carlo method
+Demonstrating the Monte Carlo method.
